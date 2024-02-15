@@ -20,6 +20,7 @@
 .descricao__titulo {
   color: var(--cor-categoria);
   font-weight: 700;
+  margin-bottom: 1em;
 }
 
 .descricao__subtitulo{
@@ -35,6 +36,7 @@
 
 .card__classificacao {
   margin-bottom: .5em;
+  width: 60%;
 }
 
 .card__botoes {
@@ -55,4 +57,11 @@
   padding: 1em 2.2em;
   color:white;
   font-weight: 700;
+}
+
+@media screen and (min-width:1024px) {
+  .card {
+    width: 70%;
+    margin: 2em auto;
+  }
 }
