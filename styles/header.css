@@ -133,6 +133,7 @@
 
   .lista-menu__item:hover {
     background: var(--cor-degrade);
+    cursor: pointer;
   }
 
   .lista-menu__item:hover > .lista-menu__link {

@@ -37,11 +37,7 @@
   .swiper-button-next, .swiper-button-prev {
     display: block;
     top:60%;
-    background: var(--cor-degrade);
-    padding: 1em;
-    border-radius: 50px;
   }
-
 }
 
 @media screen and (min-width:1728px) {
