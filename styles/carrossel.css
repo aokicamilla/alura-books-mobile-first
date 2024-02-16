@@ -37,6 +37,25 @@
   .swiper-button-next, .swiper-button-prev {
     display: block;
     top:60%;
+    background: var(--cor-degrade);
+    padding: 1em;
+    border-radius: 50px;
   }
 
+}
+
+@media screen and (min-width:1728px) {
+  .carrossel__container {
+    display: flex;
+    margin: 0 20vw 3em 20vw;
+    align-items: center;
+  }
+
+  .swiper {
+    width: 60%
+  }
+
+  .swiper-pagination {
+    margin: 1em 0;
+  }
 }
