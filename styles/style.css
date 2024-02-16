@@ -8,15 +8,15 @@
 
 :root {
   --cor-de-fundo: #EBECEE;
-  --cor-categoria: #EB9B00;
-  --cor-degrade: linear-gradient(97.54deg, #002F52 35.49%, #326589 165.37%);
+  --cor-categoria: #F47322;
+  --cor-degrade: linear-gradient(97.54deg, #9C430C 1.49%, #E86413 70.37%);
   --fonte-principal: "Poppins";
   --fonte-secundaria: "Josefin Sans";
-  --cor-subtitulo: #002F52;
+  --cor-subtitulo: #B05319;
   --cor-titulo-rodape: #858585;
   --cor-texto-rodape: #474646;
   --cor-fundo-rodape: #F9F9F9;
-
+  --cor-topicos: #D27840;
   ;
 
 }

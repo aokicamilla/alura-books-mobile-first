@@ -25,7 +25,7 @@
 
 .topicos__link {
   color: white;
-  background-color: var(--cor-categoria);
+  background-color: var(--cor-topicos);
   padding: 1em;
   font-size: 0.9rem;
   font-weight: 700;
